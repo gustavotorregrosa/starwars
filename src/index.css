@@ -5,6 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image:url("./assets/starwars-white.jpg"); 
+  background-repeat: no-repeat;
+  background-position: center top; 
+  background-size: cover;
 }
 
 code {
